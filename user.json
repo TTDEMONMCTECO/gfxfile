@@ -1,0 +1,13 @@
+[
+  {
+    "username": "fuck",
+    "password": "fuck",
+    "status": "premium",
+    "expire_date": "2056-12-31",
+    "max_devices": 3,
+    "devices": [
+      "8bcb9ae89fd2466d",
+      "d05ddfdb8b372f3a"
+    ]
+  }
+]
